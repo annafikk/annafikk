@@ -2,11 +2,11 @@
 
 <img src="banner-github.png"  alt="Profile Banner"/>
 
-I'm an IT student with a strong passion for Web Development. My focus is on programming, web design, and project management. I believe in the transformative power of Information Technology and am committed to making a positive impact in the field.
+Hello! My name is Hanif. I'm a graduate in Information Technology with a strong interest in Software Engineering, DevOps, and Project Management. I'm passionate about using technology to solve real-world problems and always eager to explore new tools and concepts in the IT landscape.
 
-I’m always eager to connect with fellow tech enthusiasts. If you're interested in collaborating or discussing IT trends, feel free to reach out!
+I believe that Information Technology holds the power to drive meaningful change, and I’m committed to contributing through impactful, efficient, and scalable solutions. With a solid foundation in programming, web development, and cloud-native infrastructure, I thrive in dynamic, collaborative environments.
 
-Let's build something great together!
+I’m always open to sharing insights, learning from others, and collaborating on innovative ideas. Feel free to connect with me—whether it’s for a project, discussion, or simply exchanging thoughts on tech and development!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=annafikk&label=Profile%20views&color=0e75b6&style=flat" alt="annafikk" /> </p>
 
@@ -34,7 +34,7 @@ Let's build something great together!
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px;"><strong>Website</strong></td>
                 <td style="border: 1px solid #ddd; padding: 10px;">Discover more about my work</td>
-                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://annafikk.my.id/" target="_blank">annafikk.my.id</a></td>
+                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://annafikk.com/" target="_blank">annafikk.com</a></td>
             </tr>
         </tbody>
     </table>
