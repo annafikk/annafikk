@@ -1,6 +1,6 @@
 <h1 align="center">Meet, Hanif 👋🏻</h1>
 
-<img src="banner-github.png"  alt="Profile Banner"/>
+<img src="banner.png"  alt="Profile Banner"/>
 
 Hello! My name is Hanif. I'm a graduate in Information Technology with a strong interest in Software Engineering, DevOps, and Project Management. I'm passionate about using technology to solve real-world problems and always eager to explore new tools and concepts in the IT landscape.
 
