@@ -8,7 +8,7 @@ I believe that Information Technology holds the power to drive meaningful change
 
 I’m always open to sharing insights, learning from others, and collaborating on innovative ideas. Feel free to connect with me—whether it’s for a project, discussion, or simply exchanging thoughts on tech and development!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=annafikk&label=Profile%20views&color=0e75b6&style=flat" alt="annafikk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annafikk&label=Profile%20views&color=0e75b6&style=flat" alt="annafikk" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=annafikk&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews" alt="annafikk" /> </p>
 
@@ -24,7 +24,7 @@ I’m always open to sharing insights, learning from others, and collaborating o
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px;"><strong>Latest Project</strong></td>
                 <td style="border: 1px solid #ddd; padding: 10px;">A community website for Padukuhan Gubug</td>
-                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://github.com/annafikk/sowangubug" target="_blank">sowangubug</a></td>
+                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://sowangubug.com" target="_blank">sowangubug</a></td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px;"><strong>Collaboration</strong></td>
